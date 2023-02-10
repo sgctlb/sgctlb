@@ -15,8 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## テスト
-H/sub<2>)
+## タイトル
+
+数式
 $$
 F=ma
 $$
