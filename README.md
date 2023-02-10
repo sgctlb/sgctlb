@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 ## 練習中です．
-練習中です
+さらに練習中です
